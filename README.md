@@ -4,8 +4,7 @@
 
 These projects were implemeted for the Machine Learning Foundation course from Udacity.
 
-## Project 4: [Predicting Boston Housing Prices](./Project_4_Boston_House_pricing
-)
+## Project 4: [Predicting Boston Housing Prices](https://github.com/dhamijavarun/MLFoundation_Udacity/tree/master/Project_4_Boston_House_pricing)
 
 ### Install
 

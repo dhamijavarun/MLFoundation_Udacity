@@ -3,6 +3,11 @@
 ## Overview
 
 These projects were implemeted for the Machine Learning Foundation course from Udacity.
+## Project 1: [Predicting Bikeshare Data](https://github.com/dhamijavarun/MLFoundation_Udacity/tree/master/Project_1_Predicting_Bikeshare_data)
+
+## Project 2: [Testing a perceptual phenomenon](https://github.com/dhamijavarun/MLFoundation_Udacity/tree/master/Project_2_Test_a_perceptual_phenomenon)
+
+## Project 3: [Investigating a dataset : Exploratory Data Analysis](https://github.com/dhamijavarun/MLFoundation_Udacity/tree/master/Project_3_Investigate_a_dataset)
 
 ## Project 4: [Predicting Boston Housing Prices](https://github.com/dhamijavarun/MLFoundation_Udacity/tree/master/Project_4_Boston_House_pricing)
 
